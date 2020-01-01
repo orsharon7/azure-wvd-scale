@@ -1,5 +1,5 @@
 <#
-Copyright 2019 Microsoft
+Copyright 2019 Microsoft!
 Version 2.0 March 2019
 .SYNOPSIS
 This is a sample script for automatically scaling Tenant Environment WVD Host Servers in Microsoft Azure
